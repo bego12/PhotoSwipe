@@ -1,4 +1,4 @@
-/*! PhotoSwipe - v4.0.8 - 2015-05-21
+/*! PhotoSwipe - v4.0.8 - 2015-06-15
 * http://photoswipe.com
 * Copyright (c) 2015 Dmitry Semenov; */
 (function (root, factory) { 
